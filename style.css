@@ -104,4 +104,18 @@ b{
   text-align: center;
   color: blue;
 }
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  background: #39c6bb;
+  color: white;
+  text-decoration: none;
+  border-radius: 999px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  transition: 0.2s ease;
+}
 
+.button:hover {
+  background: #2fa49a;
+}
