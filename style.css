@@ -107,8 +107,8 @@ b{
 .button {
   display: inline-block;
   padding: 12px 24px;
-  background: #39c6bb;
-  color: white;
+  background: #2b8eff;
+  color: black;
   text-decoration: none;
   border-radius: 999px;
   font-weight: bold;
@@ -117,5 +117,5 @@ b{
 }
 
 .button:hover {
-  background: #2fa49a;
+  background: #154985;
 }
